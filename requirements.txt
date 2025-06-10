@@ -1,7 +1,15 @@
-opencv-python>=4.5.0
-numpy>=1.19.0
-pandas>=1.2.0
-paddlepaddle>=2.4.0
-paddleocr>=2.6.0
-scikit-image>=0.19.0
-scikit-learn>=1.0.0 
+# OCR and deep learning framework
+paddleocr
+paddlepaddle
+
+# Image processing and scientific computing
+opencv-python
+scikit-image
+scipy
+numpy
+
+# Data handling
+pandas
+
+# Machine learning
+scikit-learn
